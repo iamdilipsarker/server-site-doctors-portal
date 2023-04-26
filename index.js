@@ -228,3 +228,6 @@ app.get("/", async (req, res) => {
 app.listen(port, () => {
   console.log(`server is running on ${port}`);
 });
+DB_USER=doctorsPortal
+DB_PASS=GRjMMdkuwYoo9ITi
+ACCESS_TOKEN=3e7dfa3d64fef928fe3bb68ec54ef58ffe3ec3ecdc122947493bca9ef10a57263a999bf28d512205508d418ae697b21e617402459f6c0e7821a66087e2e585e7
